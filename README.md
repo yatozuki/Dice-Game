@@ -1,5 +1,5 @@
 # Dice Game
-To roll the dice press "f5" or "ctrl + r" or click refresh.
+To roll the dice press "F5" or "Ctrl + R" or Cick Refresh.
 # Rule
 Large number win. That's it.
 # Play Here
